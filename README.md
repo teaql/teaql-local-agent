@@ -1,6 +1,6 @@
 # teaql-local-agent
 
-TeaQL local agent a generic service orchistration with LLM, teaql gen service, and build server.
+TeaQL local agent a generic service orchestration with LLM, teaql gen service, and build server.
 
 
 
